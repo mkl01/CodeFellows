@@ -1,0 +1,46 @@
+h1 {color:red; 
+	font-size: 24px; 
+	font-family: Impact;}
+h2 {color:green; 
+	font-size: 18px; 
+	font-family: Arial;}
+body {font-family: arial, Verdana, sans=serif; 
+	color: #111111;}
+p {color:blue; 
+	font-size: 12px; 
+	font-family: Verdana; 
+	background-color: #66FFFF; 
+	width: 80%;}
+footer {font-family: impact; 
+	font-size: 0.5em; 
+	color: green}
+hr {size: 3; 
+	width: 20%} 
+table {width: 800px;}
+th. td {padding: 7px 10px 10px 10px; }
+th {text-transform: uppercase;
+	letter-spacing: 0.1em;
+	font-size: 90%;
+	border-bottom: 2px solid #111111;
+	border-top: 1px solid #999;
+	test-aligh: center; }
+td {font: medium "Lucida Handwriting", cursive; 
+	height: 50px; 
+	text-align: center; 
+	vertical-align: middle;}
+.TableFoot {background: #C9E5FC; 
+	color: #327EBE; 
+	text-align: center; 
+	font-weight: italic;} 
+.TableHead {background: #327EBE; 
+	color: #C9E5FC; 
+	text-align: center; 
+	font-style: bold;} 
+.StripeLight {background: #C9E5FC; 
+	color: #327EBE; 
+	text-align: center; 
+	font-weight: bold;}
+.StripeDark	{background: #327EBE; 
+	color: #C9E5FC; 
+	text-align: center; 
+	font-weight: bold;}
