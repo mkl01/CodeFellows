@@ -1,22 +1,24 @@
-h1 {color:red; 
+h1 {color:green; 
 	font-size: 24px; 
-	font-family: Impact;}
-h2 {color:green; 
+	font-family: Arial, Verdana, sans-serif;}
+h2 {color:blue; 
 	font-size: 18px; 
 	font-family: Arial;}
-body {font-family: arial, Verdana, sans=serif; 
+body {font-family: Arial, Verdana, sans-serif; 
 	color: #111111;}
-p {color:blue; 
+p {color:black;
 	font-size: 12px; 
 	font-family: Verdana; 
-	background-color: #66FFFF; 
 	width: 80%;}
 footer {font-family: impact; 
 	font-size: 0.5em; 
 	color: green}
-hr {size: 3; 
-	width: 20%} 
-table {width: 800px;}
+hr {width: 20%;
+	align: left;} 
+
+table {width: 1000px;}
+caption {
+    caption-side: top;}
 th. td {padding: 7px 10px 10px 10px; }
 th {text-transform: uppercase;
 	letter-spacing: 0.1em;
@@ -32,7 +34,8 @@ td {font: medium "Lucida Handwriting", cursive;
 	color: #327EBE; 
 	text-align: center; 
 	font-weight: italic;} 
-.TableHead {background: #327EBE; 
+.TableHead {background: #327EBE;
+	font: Arial, Verdana, sans=serif; 
 	color: #C9E5FC; 
 	text-align: center; 
 	font-style: bold;} 
